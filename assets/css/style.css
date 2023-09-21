@@ -99,6 +99,11 @@ main {
     position: relative;
 }
 
+/*Style for reasons to run with us*/
+#reasons {
+    margin: 20px auto;
+}
+
 /*final rgb value set the opacity so it semi-transperent*/
 #cover-text {
     background-color: rgba(241, 109, 107, .7);
@@ -172,6 +177,7 @@ main {
         width: 300px;
         right: 50px;
     }
+
 }
 
 /* Large devices (laptops and desktops, 992px and up) */
