@@ -231,8 +231,9 @@ main {
 }
 
 #signup {
-    background: url("../images/signup-image.webp") no-repeat center/cover;
+    background-image: url("../images/signup-image.webp");
     /* Make the background image position and fit well on the screen*/
+    background-size: cover;
     background-position: 75%;
     padding: 20px 10% 0 10%;
     flex-grow: 1;
